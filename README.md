@@ -2,8 +2,8 @@
 
 ## Student Information
 
-**Name:** Nabeel T  
-**Register Number:** LTCR24CS075
+**Name:** Shazia
+**Register Number:** TCR24CS060
 
 ---
 
